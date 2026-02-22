@@ -1,0 +1,8 @@
+{
+  "fields": [
+    { "type": "text", "label": "Name", "hint": "Enter your name" },
+    { "type": "number", "label": "Age", "hint": "Enter your age" },
+    { "type": "dropdown", "label": "Gender", "options": ["Male", "Female", "Other"] },
+    { "type": "checkbox", "label": "Accept Terms and Conditions" }
+  ]
+}
