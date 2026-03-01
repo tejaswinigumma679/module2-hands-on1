@@ -1,7 +1,6 @@
 package teja.example.mod2handson1
 
 import android.os.Bundle
-import android.text.InputType
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
